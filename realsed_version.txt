@@ -1,0 +1,6 @@
+* Mudança nas cores de nav bar com degrade entre elas
+* cores padrão tema
+* fluidez 
+
+---------------------------versão 0.0.1-----------------------------
+
